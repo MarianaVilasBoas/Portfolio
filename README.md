@@ -5,9 +5,10 @@
 </p>
 
 # Mariana Vilas Bôas
-<sub>*Engenheira de Produção*</sub>
+Engenheira de Produção PUC-Rio
+<sub>*Estudante de Data Science*</sub>
 
-Estudante de Data Science
+Tenho experiência nas áreas financeira e de auditoria na indústria de Óleo & Gás. Atualmente, trabalho no mercado financeiro com suporte à fundos de investimento com ênfase na gestão de riscos. 
 
 **Background in:** C++.
 
