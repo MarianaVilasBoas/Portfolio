@@ -6,7 +6,7 @@
 
 # Mariana Vilas Bôas
 Engenheira de Produção PUC-Rio
-</p>
+
 <sub>*Estudante de Data Science*</sub>
 
 Tenho experiência nas áreas financeira e de auditoria na indústria de Óleo & Gás. Atualmente, trabalho no mercado financeiro com suporte à fundos de investimento com ênfase na gestão de riscos. 
