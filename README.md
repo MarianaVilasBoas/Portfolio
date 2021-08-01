@@ -19,7 +19,7 @@ Tenho experiência nas áreas financeira e de auditoria na indústria de Óleo &
 
 ## Projetos:
 
-* **
+* **[Analisando os dados do Airbnb Nova York](https://github.com/MarianaVilasBoas/Portfolio/blob/main/Analisando_os_Dados_do_Airbnb_New_York.ipynb)
 ---
 
 
