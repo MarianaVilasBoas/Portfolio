@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/author-carlosfab-red.svg)](https://www.linkedin.com/in/carlosfab) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
+[![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
 
 <p align="center">
   <img src="banner.png" >
@@ -19,7 +19,7 @@ Tenho experiência nas áreas financeira e de auditoria na indústria de Óleo &
 
 ## Projetos:
 
-* [**Analisando os dados do Airbnb Nova York**](https://github.com/MarianaVilasBoas/Portfolio/commit/0ab8bcf8ca1d6c3aa6477ca0918ec545dbd9c4e4)
+* [**Analisando os dados do Airbnb Nova York**](https://github.com/MarianaVilasBoas/Portfolio/blob/main/Analisando_os_Dados_do_Airbnb_New_York.ipynb)
 ---
 
 
