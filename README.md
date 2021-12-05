@@ -22,6 +22,10 @@ Tenho experiência nas áreas financeira e de auditoria na indústria de Óleo &
 * [**Análise dos dados do Airbnb - Nova Iorque**](https://github.com/MarianaVilasBoas/Portfolio/blob/main/Analisando_os_Dados_do_Airbnb_ipynb_Nova_Iorque.ipynb)
 ---
 * [**Machine Learning - Detecção de Fraude em Cartões de Crédito**](https://github.com/MarianaVilasBoas/Portfolio/blob/main/Detec%C3%A7%C3%A3o_de_Fraude_em_Cart%C3%B5es_de_Cr%C3%A9dito.ipynb)
+---
+* [**Churn Prediction para uma empresa de Telecomunicações**](https://github.com/MarianaVilasBoas/Portfolio/blob/main/Churn_Prediction_para_uma_empresa_de_Telecomunica%C3%A7%C3%B5es.ipynb)
+
+
 
 
 
